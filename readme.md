@@ -1,7 +1,8 @@
 # What can I do at covid line bot
-* ask new case  with line bot.
+* ask new case  with line bot in 1 week.
+* ask covid information with line bot in 1 week.
+![image](https://github.com/kid50901/LineBot_covid19info/blob/main/all.PNG?raw=true)
 
-* ask covid information with line bot.
 # How to build covid line bot
 * intall python 3.8
 * make a python 3.8 ENV [how to make python ENV](https://cloud-plantain-504.notion.site/Python-1e231b44493b43e0b9596044d942470b)
